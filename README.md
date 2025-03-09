@@ -1,6 +1,6 @@
-## Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!
-### Я Full Stack разработчик, мой главный стек технологий включает в себя PHP, MySQL, PostgreSQL, JavaScript, Docker и Git, а также фреймворк Laravel. Мои проекты всегда основаны на качественном коде, который обеспечивает масштабируемость и поддерживаемость.
-### В свободное время я активно изучаю новые технологии и с удовольствием делюсь своими знаниями в сообществах разработчиков. Я убежден, что совместный обмен знаниями и опытом может привести к улучшению наших проектов и развитию индустрии в целом.
+## Hi there, I'm <a href="https://github.com/7ix-ru" target="_blank">Pavel Ketov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am a Full Stack developer, my main technology stack includes PHP, MySQL, PostgreSQL, JavaScript, Docker and Git, as well as the Laravel framework. My projects are always based on high-quality code that ensures scalability and maintainability.
+### In my free time, I actively explore new technologies and am happy to share my knowledge in development communities. I am convinced that the joint exchange of knowledge and experience can lead to the improvement of our projects and the development of the industry as a whole.
 
 ## 🌐 Socials:
 [![Вконтакте](https://img.shields.io/badge/vk-%231877F2.svg?logo=vk&logoColor=white)](https://vk.com/ketovpavel)
