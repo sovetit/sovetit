@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://github.com/7ix-ru" target="_blank">Pavel Ketov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm <a href="https://github.com/7ixpro" target="_blank">Pavel Ketov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I am a Full Stack developer, my main technology stack includes PHP, MySQL, PostgreSQL, JavaScript, Docker and Git, as well as the Laravel framework. My projects are always based on high-quality code that ensures scalability and maintainability.
 ### In my free time, I actively explore new technologies and am happy to share my knowledge in development communities. I am convinced that the joint exchange of knowledge and experience can lead to the improvement of our projects and the development of the industry as a whole.
 
