@@ -6,8 +6,6 @@
 I build **scalable, secure, and high-performance web applications** with a strong focus on clean architecture, maintainability, and user experience.  
 As the founder of **[7ix.pro](https://github.com/7ixpro)**, I lead the development of professional WordPress solutions - from custom themes and plugins to API-driven SaaS platforms - all designed to help clients stand out in the digital space.
 
-My stack: **PHP, Laravel, React, TypeScript, PostgreSQL, Docker, Git** - and a relentless passion for quality code.
-
 When I’m not coding, I explore new tech, contribute to dev communities, and believe that **sharing knowledge moves the whole industry forward**.
 
 ---
