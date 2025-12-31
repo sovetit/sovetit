@@ -1,11 +1,23 @@
-## Hi there, I'm <a href="https://github.com/7ixpro" target="_blank">Pavel Ketov</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am a Full Stack developer, my main technology stack includes PHP, MySQL, PostgreSQL, JavaScript, Docker and Git, as well as the Laravel framework. My projects are always based on high-quality code that ensures scalability and maintainability.
-### In my free time, I actively explore new technologies and am happy to share my knowledge in development communities. I am convinced that the joint exchange of knowledge and experience can lead to the improvement of our projects and the development of the industry as a whole.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Pavel Ketov — Founder of [7ix.pro](https://github.com/7ixpro)
 
-## 🌐 Socials:
+> ✨ Full Stack Developer | Creator of Premium WordPress Themes & Plugins | Laravel & React Enthusiast
+
+I build **scalable, secure, and high-performance web applications** with a strong focus on clean architecture, maintainability, and user experience.  
+As the founder of **[7ix.pro](https://github.com/7ixpro)**, I lead the development of professional WordPress solutions — from custom themes and plugins to API-driven SaaS platforms — all designed to help clients stand out in the digital space.
+
+My stack: **PHP, Laravel, React, TypeScript, PostgreSQL, Docker, Git** — and a relentless passion for quality code.
+
+When I’m not coding, I explore new tech, contribute to dev communities, and believe that **sharing knowledge moves the whole industry forward**.
+
+---
+
+## 🌐 Let's Connect
+
 [![Вконтакте](https://img.shields.io/badge/vk-%231877F2.svg?logo=vk&logoColor=white)](https://vk.com/ketovpavel)
-[![Telegram](https://img.shields.io/badge/telegram-%231877F2.svg?logo=telegram&logoColor=white)](https://t.me/ketov)
+[![Telegram](https://img.shields.io/badge/telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/ketov)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ketovpavel)
+
+---
 
 ## 💻 Tech Stack
 
@@ -52,15 +64,26 @@
 ### ☕ Other
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sovetit&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sovetit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sovetit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sovetit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sovetit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sovetit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sovetit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://visitcount.itsvg.in/api?id=sovetit&icon=2&color=0)
+[![](https://visitcount.itsvg.in/api?id=sovetit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+> 💡 Proudly built with passion, Docker, and lots of ☕  
+> 🚀 Founder & Lead Developer at [7ix.pro](https://github.com/7ixpro)
